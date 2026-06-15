@@ -10,6 +10,10 @@ A preprint can be found on arXiv:
 
 > [*https://arxiv.org/abs/2605.05052*](https://arxiv.org/abs/2605.05052)
 
+The corresponding DOI for this repository is 
+
+> [![DOI](https://zenodo.org/badge/1213375712.svg)](https://zenodo.org/badge/latestdoi/1213375712)
+
 In this study, we train neural networks on ERA5 reanalysis data to predict momentum fluxes of orographic gravity waves. This repository contains the code for filtering ERA5 data for gravity waves using the software MODES, calculating corresponding momentum fluxes, training neural networks, and evaluation of the results.
 
 ---
